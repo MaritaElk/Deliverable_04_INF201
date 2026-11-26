@@ -1,0 +1,23 @@
+* 002993c - MaritaElk, 78 seconds ago : oppdatert jupiternb, requirement (HEAD -> Hovedbranch, origin/Hovedbranch)
+* 749d7fb - MaritaElk, 15 minutes ago : Update Jupyter notebook
+*   3671b3b - MaritaElk, 3 days ago : Merge pull request #2 from MaritaElk/Marita
+|\  
+| | * ae24c70 - MaritaElk, 38 minutes ago : WIP on Marita: 6203b5b added test_temp, jupyter nb Task 1 and update temp (refs/stash)
+| |/| 
+| | * 2fb1e5e - MaritaElk, 38 minutes ago : index on Marita: 6203b5b added test_temp, jupyter nb Task 1 and update temp
+| |/  
+| * 6203b5b - MaritaElk, 3 days ago : added test_temp, jupyter nb Task 1 and update temp (origin/Marita, Marita)
+| * c0e2e7b - MaritaElk, 4 days ago : Class temperature
+| | * f222aec - Linda Qviller Halvorsen, 17 hours ago : edit headers (origin/Linda, Linda)
+| | * 8b0ede9 - Linda Qviller Halvorsen, 22 hours ago : added Conclusion
+| | * 71427ca - Linda Qviller Halvorsen, 26 hours ago : changes made in introduction
+| | * 44a417a - Linda Qviller Halvorsen, 27 hours ago : Notebook update, deliverable_04
+| | * d882349 - Linda Qviller Halvorsen, 7 days ago : Fraction, codes and testing
+| |/  
+|/|   
+* | 67b1346 - MaritaElk, 9 days ago : Merge pull request #1 from MaritaElk/Marita
+|\| 
+| * 27413cb - MaritaElk, 9 days ago : Add Deliverable 04 notebook
+|/  
+* 43779f2 - MaritaElk, 9 days ago : Add requirements.txt
+* f770d49 - MaritaElk, 9 days ago : Initial commit (origin/main, origin/HEAD, main)
